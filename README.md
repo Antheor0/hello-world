@@ -1,2 +1,4 @@
 # hello-world
-This is a test hello-world repository following GitHub tutorial because why not
+There is nothing like trying some new software and liking it.
+
+Antheor finds GitHub dope :-)
